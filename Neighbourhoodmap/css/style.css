@@ -1,0 +1,91 @@
+html,
+body {
+	height: 100%;
+	font-family: 'Bellefair', serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	text-align: center;
+	background-color: gray;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+
+#placeinfo {
+	color: #0092CC;
+	font-family: 'Bellefair', serif;
+	width: 230px;
+	height: 100px;
+	
+}
+
+.listofshops{
+	margin-top: 10px;
+	padding-top: 10px;
+	font-size: 30px;
+	text-align: left;
+	font-weight: bold;
+	color:gray;  
+	font-family: 'Bellefair', serif;
+}
+
+
+#map {
+	height: 510px;
+	width: 100%;
+}
+
+
+a {  
+    border:8px solid #00a877;
+    font-weight: bold;
+    padding: 5px;
+    display:block;
+	margin-top:-15px;
+}
+
+#inputvalue {
+	width: 100%;
+	margin-bottom: 10px;
+	text-indent: inherit;
+	font-weight: bold;
+}
+
+
+li:hover {
+	background-color: gray;
+	text-decoration: underline;
+}
+
+.output_places {
+	width: 90%;
+	vertical-align: center;
+}
+
+
+
+
+
+h1 {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 10px ;
+    line-height: 40px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+
+h3 {
+	color: red;
+	font-size:20px;
+	text-align:center;
+}
+h4{
+	color: #0092CC;
+	text-decoration: underline;
+}
